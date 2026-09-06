@@ -1,8 +1,6 @@
 ## Software Engineer
 
-- Experienced in Identity and Access Management (IAM) and DevOps areas
-- Sound knowledge of identity protocols, API architecture, microservices, PII handling and scripting
-- Interested in developing useful tools and large-scale distributed systems that have a widespread impact
+I am a Software Engineer passionate about user security and privacy in tools for one and all. I have 10 years of experience designing identity pipelines, cloud infrastructure / VMs / containers, backend tooling and distributed services. I specialize in building fault-tolerant microservices, securing critical authentication flows, and building tools at scale.  
 
 #### Let's connect!
 
@@ -10,12 +8,18 @@
 
 #### My hammer and nails that I use to build cool things
 
+Platforms:
+
+![Static Badge](https://img.shields.io/badge/Red_Hat-FFFFFF?logo=redhat&logoColor=red&color=black)
+![Static Badge](https://img.shields.io/badge/CentOS-BB27F5?logo=centos&logoColor=red&color=white)
+![Static Badge](https://img.shields.io/badge/Windows-1868DB?logo=windows&logoColor=white&color=blue)
+
 ##### Languages: 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk)
 ![PHP](https://img.shields.io/badge/php-7A86B8?style=flat&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/bash-121011?style=flat&logo=gnu-bash&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Golang](https://img.shields.io/badge/golang-00ADD8?style=flat&logo=go&logoColor=ffdd54)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -23,7 +27,6 @@
 ##### Databases:
 ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-FFFFFF?logo=postgresql&logoColor=white&color=336791)
 ![Static Badge](https://img.shields.io/badge/Cassandra-FFFFFF?logo=apache-cassandra&logoColor=white&color=336791)
 
 ##### Frameworks:
@@ -34,7 +37,6 @@
 ![Static Badge](https://img.shields.io/badge/Laravel-FFFFFF?logo=laravel&color=white)
 ![Static Badge](https://img.shields.io/badge/Zend-fff?logo=zend&logoColor=0679EA)
 ![Static Badge](https://img.shields.io/badge/Spark-FFFFFF?logo=apache-spark&color=white)
-
 
 ##### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-&logo=git&logoColor=white)
@@ -47,7 +49,19 @@
 ![Static Badge](https://img.shields.io/badge/NGINX-FFFFFF?style=flat&logo=nginx&color=green)
 
 
+
 ## Work Experience 👨‍💻
+
+### ✦ **GreenThreads LLC** | Sr. IAM Engineer
+#### Contractor for U. S. Department of Veterans Affairs
+
+↳ (2025 – present)
+
+> → Modernized token system, supporting 10M users, by upgrading Java, Tomcat, and Spring Boot, as well as Java EE to Jakarta EE packages, to remove security vulnerabilities and CVE  isks
+>
+> → Overhauled system infrastructure by migrating logging framework to Logback, improving Splunk logging, and upgrading to JCache standards
+>
+> → Managed PKI certificate updates and domain-based access rules 
 
 ### ✦ **Synacor Inc** | Senior Software Engineer 
 
@@ -65,6 +79,13 @@ APIs (hosted on Azure, AWS, etc) to provide instantaneous authorization response
 ↳ (Aug 2018 – May 2022)
 
 > → Served 8 - 10 million users with TV Everywhere integrations, built using SAML 2.0 and OAuth 2.0 standards, created a SaaS / IaaS feature for a client onboarding service, built and deployed React microservices, built log parsers for SiriusXM Parsed, improved efficiency for Zimbra server installations by doing health-check, built CI / CD pipeline using Bamboo and Puppet.
+
+### ✦ **Synacor Inc** | Software Engineer I
+
+↳ (Aug 2018 – May 2022)
+
+> → Built PHP / Zend based Portal product for AT&T, WOW!, Grande
+Communications (Astound), Hawaiian Telecom and Golang microservice for provisioning F-Secure anti-virus licenses
 
 ## Personal Projects & Experimentation 🧪
 
